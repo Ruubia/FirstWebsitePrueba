@@ -8,7 +8,7 @@ Practice your web development and Git skills by creating a single-page website.
 
 1. Create a New Repository on GitHub:
 
-- Go to [GitHub] (https://github.com/) and log in.
+- Go to [GitHub](https://github.com/) and log in.
 - Create a new repository by clicking the "New" button.
 - Name your repository `FirstWebsitePrueba`.
 - Make sure to initialize the repository with a README file.
@@ -67,11 +67,11 @@ npm install -g http-server
 
 - Use the following Bootstrap examples and components to build your page:
   
-  - Navbar: Use the [Bootstrap Navbar component] (https://getbootstrap.com/docs/5.3/components/navbar/).
-  - Hero Section: You can use a background image and centred text. Example from [Jumbotron] (https://getbootstrap.com/docs/5.3/examples/jumbotrons/).
-  - Main Content: Divide the content into sections using Bootstrap's grid system. Please take a look at [Containers and Grid] (http://surl.li/epcetu).
-  - Portfolio: Use [Bootstrap Cards] (https://getbootstrap.com/docs/5.3/components/card/) to showcase projects.
-  - Contact Form: Use the [Bootstrap Form component] (https://getbootstrap.com/docs/5.3/forms/overview/) to create the contact form.
+  - Navbar: Use the [Bootstrap Navbar component](https://getbootstrap.com/docs/5.3/components/navbar/).
+  - Hero Section: You can use a background image and centred text. Example from [Jumbotron](https://getbootstrap.com/docs/5.3/examples/jumbotrons/).
+  - Main Content: Divide the content into sections using Bootstrap's grid system. Please take a look at [Containers and Grid](http://surl.li/epcetu).
+  - Portfolio: Use [Bootstrap Cards](https://getbootstrap.com/docs/5.3/components/card/) to showcase projects.
+  - Contact Form: Use the [Bootstrap Form component](https://getbootstrap.com/docs/5.3/forms/overview/) to create the contact form.
 
 8.  Styling and Customization:
 
